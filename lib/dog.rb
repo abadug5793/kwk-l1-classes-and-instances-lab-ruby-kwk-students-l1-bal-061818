@@ -5,5 +5,5 @@ class Dog
 end
 
 fido = Dog.new        #objects/instances
-snoppy = Dog.new
+snoopy = Dog.new
 lassie = Dog.new
